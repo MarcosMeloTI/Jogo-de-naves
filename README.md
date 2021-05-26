@@ -8,4 +8,4 @@
 
 #### Imagem do jogo:
 
-![Jogo-de-naves](C:\Users\Marcos\Desktop\meus-projetos\Jogo-de-naves\imgs\Jogo-de-naves.png)
+<img src="./imgs/Jogo-de-naves.png" alt="Game"/>
